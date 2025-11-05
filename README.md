@@ -1,1 +1,1 @@
-# proyecto
+# Plataforma de aprendizaje UMG 
